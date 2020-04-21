@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-NGCLARP3",
+    "children" : [ {
+      "name" : "4132-MainThread",
+      "children" : [ {
+        "name" : "test_001",
+        "uid" : "9b8c6b877b00f713",
+        "parentUid" : "a1ceb489c3c2b613a533a164075f63dd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1587290472451,
+          "stop" : 1587290472451,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a1ceb489c3c2b613a533a164075f63dd"
+    } ],
+    "uid" : "799313bde08205cc3d2ca88a8682f596"
+  } ]
+}

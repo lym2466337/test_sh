@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "scrips_test.test_002",
+    "children" : [ {
+      "name" : "test_001",
+      "uid" : "9b8c6b877b00f713",
+      "parentUid" : "99ba60b40debdd854f9fccfead054408",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587290472451,
+        "stop" : 1587290472451,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "scrips_test.test_002"
+  } ]
+}

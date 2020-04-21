@@ -1,0 +1,55 @@
+{
+  "uid" : "9b8c6b877b00f713",
+  "name" : "test_001",
+  "fullName" : "scrips_test.test_002.Test_A#test_001",
+  "historyId" : "0b67875776833ce91ca521a85258778a",
+  "time" : {
+    "start" : 1587290472451,
+    "stop" : 1587290472451,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scrips_test"
+  }, {
+    "name" : "suite",
+    "value" : "test_002"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_A"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-NGCLARP3"
+  }, {
+    "name" : "thread",
+    "value" : "4132-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scrips_test.test_002"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b8c6b877b00f713.json",
+  "parameterValues" : [ ]
+}
